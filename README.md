@@ -1,6 +1,7 @@
 # EX---2-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-## NAME: INESH N
-## REG NO: 212223220036 
+### REG NUMBER: 212223240070
+### NAME: KEERTHANA S
+ 
 
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
